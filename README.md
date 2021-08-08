@@ -1,4 +1,8 @@
-# Code 201 Reading Notes :monocle_face:
+# Code 201 Reading Notes
+
+First Name | Last Name
+---------- | ----------
+Jonathan | Brock
 
 **Table of Contents**
 
