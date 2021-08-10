@@ -1,11 +1,9 @@
 # Code 201 Reading Notes
 
-First Name | Last Name
----------- | ----------
-Jonathan | Brock
+Notes as taken by Jonathan Brock during the Code Fellows 201 course.
 
 **Table of Contents**
-
+---
 1. [Class 01](https://github.com/JBrockDev/reading-notes/blob/main/class-01.md)
 2. [Class 02](https://github.com/JBrockDev/reading-notes/blob/main/class-02.md)
 3. N/A
