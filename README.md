@@ -7,7 +7,7 @@ Jonathan | Brock
 **Table of Contents**
 
 1. ~~N/A~~
-2. N/A
+2. [Class 02](https://github.com/JBrockDev/reading-notes/blob/main/class-02.md)
 3. N/A
 4. N/A
 5. N/A
