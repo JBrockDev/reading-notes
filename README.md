@@ -6,7 +6,7 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 course.
 ---
 1. [Class 01](https://jbrockdev.github.io/reading-notes/class-01)
 2. [Class 02](https://jbrockdev.github.io/reading-notes/class-02)
-3. N/A
+3. [Class 03](https://jbrockdev.github.io/reading-notes/class-03)
 4. N/A
 5. N/A
 6. N/A
