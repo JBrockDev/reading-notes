@@ -3,16 +3,16 @@
 ## Text (HTML)
 
   Text in html has many types of ways to 'markup' or 'tag' sections of text to help with how the text is displayed
-  - <h1>, <h2>, .., <h6> - there are six rankings of heading tags, though the first two are the most used. h1's are main headings and h2's are subheadings
-  - <p> - paragraph tags without any modification display text in the browser on a new line
-  - <b>, <i> - these tags can surround one character or limitless characters and have default appearance looks. The <b> will bold and the <i> will italicize text
-  - <sup>, <sub> - these tags are used to create superscript and subscript numbers easily on a page
-  - whitespace - the browser will automatically eliminate more than two whitespace characters in a row and will also treat a new line without a new line specific character as a single space
-  - <br />, <hr /> - as described in the whitespace explanation, the <br /> will create a line break. <hr /> will create a horizontal line divider to seperate sections
+  - `<h1>, <h2>, .., <h6>` - there are six rankings of heading tags, though the first two are the most used. h1's are main headings and h2's are subheadings
+  - `<p>` - paragraph tags without any modification display text in the browser on a new line
+  - `<b>, <i>` - these tags can surround one character or limitless characters and have default appearance looks. The <b> will bold and the <i> will italicize text
+  - `<sup>, <sub>` - these tags are used to create superscript and subscript numbers easily on a page
+  - `whitespace` - the browser will automatically eliminate more than two whitespace characters in a row and will also treat a new line without a new line specific character as a single space
+  - `<br />, <hr />` - as described in the whitespace explanation, the `<br />` will create a line break. `<hr />` will create a horizontal line divider to seperate sections
   
  In addition to those types of markup, there are semantic tags, which add more information to your page
-  - <strong>, <em> - <strong> will bold text, but also cause a text reader to read more strongly the text within. <em> will italicize and cause a text reader to emphacize the text within.
-  - <blockquote>, <q> - blockquote will indent text as is commonly seen in quotes. <q> will add quotation marks around text within, except in the case of internet explorer.
+  - `<strong>, <em>` - `<strong>` will bold text, but also cause a text reader to read more strongly the text within. `<em>` will italicize and cause a text reader to emphacize the text within.
+  - `<blockquote>, <q>` - blockquote will indent text as is commonly seen in quotes. `<q>` will add quotation marks around text within, except in the case of internet explorer.
 
 ## Introducing CSS (CSS)
   
