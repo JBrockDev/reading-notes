@@ -21,16 +21,16 @@
 ## Decisions (JS)
   
   Decisions on which code to run can be made utilizing expressions made up of two values or more values, which can be variables, and evaluating them with comparison operators.
-  - == - Loosely equal to. Doesn't guarantee type equality
-  - === - Strict equal to. Guarantees type equality
-  - != - Loosely is not equal to. Doesn't guarantee type inequality
-  - !== - Strict is not equal to. Guarantees type inequality
-  - > - Greater than. Returns true or false relating to if the left is greater than the right
-  - < - Less than. Returns true or false relating to if the left is smaller than the right
-  - >= - Greater than or equal to. Returns true or false relating to if the left is greater than or equal to the right
-  - <= - Less than or equal to. Returns true or false relating to if the left is smaller than or equal to the right
+  - `==` - Loosely equal to. Doesn't guarantee type equality
+  - `===` - Strict equal to. Guarantees type equality
+  - `!=` - Loosely is not equal to. Doesn't guarantee type inequality
+  - `!==` - Strict is not equal to. Guarantees type inequality
+  - `>` - Greater than. Returns true or false relating to if the left is greater than the right
+  - `<` - Less than. Returns true or false relating to if the left is smaller than the right
+  - `>=` - Greater than or equal to. Returns true or false relating to if the left is greater than or equal to the right
+  - `<=` - Less than or equal to. Returns true or false relating to if the left is smaller than or equal to the right
        
   Logical Operators allow comparison of multiple expressions to handle even more advanced situations.
-  - && - Logical And. Returns only true if both left and right evaluate to true
-  - || - Logical Or. Returns true if either side or both sides evaluate to true, but not if both evaluate to false
-  - ! - Logical Not. Returns true if whatever to the left of the bang (!) is false
+  - `&&` - Logical And. Returns only true if both left and right evaluate to true
+  - `||` - Logical Or. Returns true if either side or both sides evaluate to true, but not if both evaluate to false
+  - `!` - Logical Not. Returns true if whatever to the left of the bang (!) is false
