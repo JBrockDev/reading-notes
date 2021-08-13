@@ -20,4 +20,3 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 course.
 14. [Class 14](https://jbrockdev.github.io/reading-notes/class-14)
 15. [Class 15](https://jbrockdev.github.io/reading-notes/class-15)
 
-
