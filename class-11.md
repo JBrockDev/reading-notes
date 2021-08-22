@@ -1,1 +1,9 @@
+# Class 11 - Reading Notes
 
+## Images (HTML)
+
+Setting image sizes in CSS helps the browser to render the rest of the page, which the information is immediately available, instead of waiting on the image to load. By specifying dimensions, it will leave that space for the image and continue rendering the rest of the page. Aligning images can be done through floats, align-left/right, margins. Centering can be done by doing `margin: 0px auto`, which will set the top and bottom to 0px and evenly space the left and right. You can also align background images by utilizing `background position: left center` substituting either left or center for: top, bottom, center, left, right. When utilizing a background image, consider the contrast of the text that may go over it. Make sure that the text is readable.
+
+## Practical Information (HTML)
+
+Search Engine Optimization (SEO) is a very important consideration for your website. Taking into consideration SEO factors, you can change a website in a lesser occupied search space to go from the 50th result in google searches to the top 5. There's a bit more than HTML to factor into SEO, so more crowded spaces will require work outside your website. An important factor is to look at the `keywords` people are using when searching for whatever your website is covering. Make sure that the terms are textually written and not just on images also as the search engine doesn't read images. Important places to put keywords: title, url, headings, text, link text, image alt text, and page description. Utilizing google analytics can help you to see numbers relating to this and other things that factor into your websites SEO.
