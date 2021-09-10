@@ -2,9 +2,8 @@
 
 Notes as taken by Jonathan Brock during the Code Fellows 201 & 301 courses.
 
-**Table of Contents**
 ---
-## Code 201
+## Code 201 - Foundations of Software Development
 1. [Class 01](https://jbrockdev.github.io/reading-notes/class-01)
 2. [Class 02](https://jbrockdev.github.io/reading-notes/class-02)
 3. [Class 03](https://jbrockdev.github.io/reading-notes/class-03)
@@ -20,4 +19,6 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 & 301 courses.
 13. [Class 13](https://jbrockdev.github.io/reading-notes/class-13)
 14. [Class 14](https://jbrockdev.github.io/reading-notes/class-14)
 15. [Class 15](https://jbrockdev.github.io/reading-notes/class-15)
-## Code 301
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
