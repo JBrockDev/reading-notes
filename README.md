@@ -1,9 +1,10 @@
-# Code 201 Reading Notes
+# Code Fellows Reading Notes
 
-Notes as taken by Jonathan Brock during the Code Fellows 201 course.
+Notes as taken by Jonathan Brock during the Code Fellows 201 & 301 courses.
 
 **Table of Contents**
 ---
+## Code 201
 1. [Class 01](https://jbrockdev.github.io/reading-notes/class-01)
 2. [Class 02](https://jbrockdev.github.io/reading-notes/class-02)
 3. [Class 03](https://jbrockdev.github.io/reading-notes/class-03)
@@ -19,4 +20,4 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 course.
 13. [Class 13](https://jbrockdev.github.io/reading-notes/class-13)
 14. [Class 14](https://jbrockdev.github.io/reading-notes/class-14)
 15. [Class 15](https://jbrockdev.github.io/reading-notes/class-15)
-
+## Code 301
