@@ -20,5 +20,6 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 & 301 courses.
 14. [What Google Learned About Teams](https://jbrockdev.github.io/reading-notes/class-14)
 15. [CSS Transformations, Animations, Etc](https://jbrockdev.github.io/reading-notes/class-15)
 ## Code 301 - Intermediate Software Development
+1. [Intro To React and Components](https://jbrockdev.github.io/reading-notes/class-16)
 
 ## Code 401 - Advanced Software Development
