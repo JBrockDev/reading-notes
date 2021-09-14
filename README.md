@@ -21,5 +21,6 @@ Notes as taken by Jonathan Brock during the Code Fellows 201 & 301 courses.
 15. [CSS Transformations, Animations, Etc](https://jbrockdev.github.io/reading-notes/class-15)
 ## Code 301 - Intermediate Software Development
 1. [Intro To React and Components](https://jbrockdev.github.io/reading-notes/class-16)
+2. [State and Props](https://jbrockdev.github.io/reading-notes/class-17)
 
 ## Code 401 - Advanced Software Development
